@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmP1elA0JdGlQpf+TgDjkM6ceZ98I/XHmEkN85B/5vAscrl1lSAUb/0w6sIM/Wxzxc9ZyRIM2fU6IyC8VcHdHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Homelab\\Documents\\MyLearning\\POC\\AllASXIndices-Extract\\AllASXIndices-Extract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Homelab\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\Homelab\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Homelab\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
+    "C:\\Users\\Homelab\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\Homelab\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512"
+  ],
+  "logs": []
+}
