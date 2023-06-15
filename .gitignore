@@ -1,4 +1,7 @@
 # ignore all directories with the name test
 .vs/
 Selenium-ScrapeTableDataPoc/
-bin/
+!bin/
+bin/*
+**/bin/Debug/
+**/bin/Release/
