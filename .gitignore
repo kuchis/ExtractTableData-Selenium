@@ -5,3 +5,6 @@ Selenium-ScrapeTableDataPoc/
 bin/*
 **/bin/Debug/
 **/bin/Release/
+!obj/
+obj/*
+**/obj/Debug/
